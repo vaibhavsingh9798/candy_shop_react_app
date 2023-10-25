@@ -1,0 +1,10 @@
+.candy-container{
+    background-color: brown;
+    height: 100vh;
+    width: 100vw;
+}
+.candy-header{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+}
